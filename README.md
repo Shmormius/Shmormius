@@ -1,0 +1,1 @@
+[![Shmormius's Github stats](https://github-readme-stats.verce.app/api?username=Shmormius)](https://github.com/anuraghazra/github-readme-stats)
