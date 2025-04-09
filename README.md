@@ -8,10 +8,6 @@
 
 ###
 
-<img align="right" height="175" src="https://shmormius.github.io/resources/img/main-page-img/daemon-suit-full.jpg"  />
-
-###
-
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
